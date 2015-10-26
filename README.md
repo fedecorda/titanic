@@ -8,8 +8,8 @@ titanic is a project for selling commercial boats.
 
 the goals of this application are: 
 
-1. goal one 
-2. goal two
+1. Sell most boats possible
+2. Always satisfy the customer
 
 ## Architecture/ Infrastructure
 
